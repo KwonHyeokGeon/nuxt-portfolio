@@ -1,0 +1,1 @@
+import{a,b as s,i as t,p as o,o as r}from"./entry.255f28db.js";const c={};function f(e,n){return r(),s("div",null,[t(" adfasfdsdafasf "),o(e.$slots,"default")])}const l=a(c,[["render",f]]);export{l as default};
